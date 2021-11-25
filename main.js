@@ -43,5 +43,6 @@ background('#969A97');
  document.getElementById("square_side").innerHTML = "Width And Height of the Text will be = " + difference +"px";
  fill('#F90093');  
  stroke('#F90093');
- text(noseX, noseY, difference);
+ text(dEBUbEBU, noseX, noseY);
+ textSize(difference);
 }
